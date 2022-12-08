@@ -8,4 +8,6 @@
 
 > Сила не в пулях, сила — это мудрость книжек.
 
-[^1]: Данная строчка взята из песни [Kizaru](https://ru.wikipedia.org/wiki/Kizaru) "Евгений Онегин"
+[^1]:
+    Данная строчка взята из песни [Kizaru](https://ru.wikipedia.org/wiki/Kizaru) "Евгений Онегин"
+    ![Kizaru](kizaru.jpg)
